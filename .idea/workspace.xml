@@ -52,7 +52,7 @@
       <file leaf-file-name="game.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="32" selection-start="1379" selection-end="1385" vertical-scroll-proportion="0.0">
+            <state line="83" column="33" selection-start="1709" selection-end="1709" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -70,7 +70,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="9" selection-start="75" selection-end="75" vertical-scroll-proportion="0.1734104">
+            <state line="5" column="5" selection-start="51" selection-end="51" vertical-scroll-proportion="0.14450867">
               <folding />
             </state>
           </provider>
@@ -666,20 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="32" selection-start="1379" selection-end="1385" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/board.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="38" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/player.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="11" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
@@ -701,13 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/board_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="55" selection-start="997" selection-end="997" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/proccess_game.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="26" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
@@ -715,9 +694,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spec/board_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="55" selection-start="997" selection-end="997" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="33" selection-start="1709" selection-end="1709" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/board.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="38" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="9" selection-start="75" selection-end="75" vertical-scroll-proportion="0.1734104">
+        <state line="5" column="5" selection-start="51" selection-end="51" vertical-scroll-proportion="0.14450867">
           <folding />
         </state>
       </provider>
