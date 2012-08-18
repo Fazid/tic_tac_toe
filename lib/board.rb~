@@ -1,0 +1,26 @@
+class Board
+
+  attr_reader :cells
+
+  def initialize(cells = [[nil, nil, nil]] * 3)
+    validate cells
+    @cells = cells
+  end
+
+  def empty?
+    @cells.flatten.all? do |cell|
+      cell.nil?
+    end
+  end
+
+  private
+
+  def validate cells
+    raise ArgumentError unless cells.length == 3
+    cells.each do |row|
+      raise ArgumentError unless row.length == 3
+      row.each { |cell| raise ArgumentError unless [nil, 0, 1].include? cell }
+    end
+  end
+
+end
