@@ -32,7 +32,7 @@ describe Board do
       @newBoard = Board.new
     end
 
-    it "should return true if three cells in horizontal vertical line are the same but not nul" do
+    it "should return true if three cells in horizontal line are the same but not nul" do
       @newBoard.cells = [[1, 1, 1],[nil, nil, nil],[nil, nil, nil]]
       @newBoard.instance_variable_set(:@x_y, [0,0])
       @newBoard.checkLine.should be_true
